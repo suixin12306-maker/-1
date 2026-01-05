@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-01-05T23:25:33.280675+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-01-06T00:28:03.045863+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
-          "url": "https://wallstreetcn.com/articles/3762504",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 16时33分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
