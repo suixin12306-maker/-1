@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-10T22:58:48.503052+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-02-11T00:11:58.164226+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "提供无人机破解服务是犯罪",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E4%BE%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A0%B4%E8%A7%A3%E6%9C%8D%E5%8A%A1%E6%98%AF%E7%8A%AF%E7%BD%AA%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时02分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
