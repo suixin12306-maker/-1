@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-24T23:59:08.125052+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2026-02-25T01:12:53.773980+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "男子坐高铁躲卫生间抽烟致列车晚点",
-          "url": "https://www.toutiao.com/trending/7609659953100013609/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
