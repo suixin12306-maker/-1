@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-08T23:24:36.991052+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-03-09T00:29:19.630232+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "知情人士称五角大楼承认伊朗无人机破坏力超出预期",
-          "url": "https://wallstreetcn.com/livenews/3065785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
