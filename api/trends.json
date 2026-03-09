@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-09T07:24:53.337592+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-03-09T10:07:03.761563+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "五角大楼承认伊无人机破坏力超预期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%89%BF%E8%AE%A4%E4%BC%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A0%B4%E5%9D%8F%E5%8A%9B%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
