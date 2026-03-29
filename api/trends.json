@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T06:31:44.678339+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-30T07:33:34.516351+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广东出现高铁接触网挂异物故障，部分列车晚点",
@@ -15,8 +15,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时33分]"
+        },
+        {
+          "title": "广铁致歉受强降雨龙卷风影响部分列车晚点，乘客讲述隧道内停车断电4小时经历",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32858295",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     }
