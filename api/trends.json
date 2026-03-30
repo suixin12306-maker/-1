@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T07:33:34.516351+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-03-30T10:29:55.122593+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "广东出现高铁接触网挂异物故障，部分列车晚点",
@@ -25,9 +25,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "广东局地雷雨大风 部分列车晚点停运",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%B1%80%E5%9C%B0%E9%9B%B7%E9%9B%A8%E5%A4%A7%E9%A3%8E+%E9%83%A8%E5%88%86%E5%88%97%E8%BD%A6%E6%99%9A%E7%82%B9%E5%81%9C%E8%BF%90",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     }
