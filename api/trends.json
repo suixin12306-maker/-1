@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-04-20T22:51:23.096790+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-04-21T00:10:53.068047+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "南京东机辆段 南京南站 高铁司机 列车晚点 机破",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "吊车险触铁路接触网 多趟列车晚点",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8A%E8%BD%A6%E9%99%A9%E8%A7%A6%E9%93%81%E8%B7%AF%E6%8E%A5%E8%A7%A6%E7%BD%91+%E5%A4%9A%E8%B6%9F%E5%88%97%E8%BD%A6%E6%99%9A%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 05时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
